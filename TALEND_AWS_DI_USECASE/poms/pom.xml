@@ -13,9 +13,9 @@
     <module>jobs/joblets/jblt_load_context_0.1</module>
     <module>jobs/process/j_vlambe_di_usecase_flavor_setup_0.1</module>
     <module>jobs/joblets/jblt_send_status_mail_0.1</module>
-    <module>jobs/process/j_vlambe_di_usecase_customer_setup_0.1</module>
     <module>jobs/joblets/jblt_enable_logging_0.1</module>
     <module>jobs/process/j_di_usecase_analytics_summary_0.1</module>
+    <module>jobs/process/j_di_usecase_customer_setup_0.1</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
