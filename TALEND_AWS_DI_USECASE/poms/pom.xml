@@ -16,11 +16,11 @@
     <module>jobs/process/j_di_usecase_analytics_summary_0.1</module>
     <module>jobs/process/j_di_usecase_customer_setup_0.1</module>
     <module>jobs/process/j_di_usecase_flavor_setup_0.1</module>
-    <module>jobs/process/j_vlambe_di_usecase_flavor_setup_0.1</module>
     <module>jobs/process/j_vlambe_di_usecase_analytics_summary_0.1</module>
     <module>jobs/process/j_vlambe_di_usecase_customer_setup_0.1</module>
     <module>jobs/joblets/jblt_load_env_specific_context_0.1</module>
     <module>jobs/joblets/jblt_load_job_specific_context_0.1</module>
+    <module>jobs/process/j_usecase_flavor_setup_0.1</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
